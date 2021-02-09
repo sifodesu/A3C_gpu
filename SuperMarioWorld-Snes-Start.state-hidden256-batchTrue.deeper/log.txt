@@ -1,0 +1,1049 @@
+INFO:root:Total episodes: 1 | Total processed frames: 4607 | Average reward: 200.00 | Loss: 15364.90 lr:0.0001
+INFO:root:Total episodes: 2 | Total processed frames: 8935 | Average reward: 200.00 | Loss: 15509.60 lr:0.0001
+INFO:root:Total episodes: 3 | Total processed frames: 13270 | Average reward: 272.20 | Loss: 26857.58 lr:0.0001
+INFO:root:Total episodes: 6 | Total processed frames: 17643 | Average reward: 361.37 | Loss: 35122.09 lr:0.0001
+INFO:root:Total episodes: 6 | Total processed frames: 21943 | Average reward: 361.37 | Loss: 35122.09 lr:0.0001
+INFO:root:Total episodes: 6 | Total processed frames: 26148 | Average reward: 361.37 | Loss: 35122.09 lr:0.0001
+INFO:root:Total episodes: 8 | Total processed frames: 30371 | Average reward: 406.00 | Loss: 39028.73 lr:0.0001
+INFO:root:Total episodes: 10 | Total processed frames: 34654 | Average reward: 407.84 | Loss: 40218.36 lr:0.0001
+INFO:root:Total episodes: 11 | Total processed frames: 39049 | Average reward: 411.76 | Loss: 40595.46 lr:0.0001
+INFO:root:Total episodes: 14 | Total processed frames: 43297 | Average reward: 433.19 | Loss: 42330.72 lr:0.0001
+INFO:root:Total episodes: 14 | Total processed frames: 47555 | Average reward: 433.19 | Loss: 42330.72 lr:0.0001
+INFO:root:Total episodes: 14 | Total processed frames: 51717 | Average reward: 433.19 | Loss: 42330.72 lr:0.0001
+INFO:root:Total episodes: 14 | Total processed frames: 55918 | Average reward: 433.19 | Loss: 42330.72 lr:0.0001
+INFO:root:Total episodes: 18 | Total processed frames: 60241 | Average reward: 702.34 | Loss: 82607.67 lr:0.0001
+INFO:root:Total episodes: 20 | Total processed frames: 64463 | Average reward: 759.88 | Loss: 86685.64 lr:0.0001
+INFO:root:Total episodes: 21 | Total processed frames: 68655 | Average reward: 822.59 | Loss: 98497.26 lr:0.0001
+INFO:root:Total episodes: 22 | Total processed frames: 72849 | Average reward: 822.36 | Loss: 97900.74 lr:0.0001
+INFO:root:Total episodes: 26 | Total processed frames: 77040 | Average reward: 837.20 | Loss: 97720.45 lr:0.0001
+INFO:root:Total episodes: 27 | Total processed frames: 81294 | Average reward: 865.33 | Loss: 99324.26 lr:0.0001
+INFO:root:Total episodes: 28 | Total processed frames: 85426 | Average reward: 902.87 | Loss: 101673.46 lr:0.0001
+INFO:root:Total episodes: 30 | Total processed frames: 89660 | Average reward: 998.22 | Loss: 119190.68 lr:0.0001
+INFO:root:Total episodes: 31 | Total processed frames: 93834 | Average reward: 996.24 | Loss: 119210.85 lr:0.0001
+INFO:root:Total episodes: 32 | Total processed frames: 98058 | Average reward: 1016.58 | Loss: 120376.60 lr:0.0001
+INFO:root:Total episodes: 34 | Total processed frames: 102326 | Average reward: 998.35 | Loss: 121873.49 lr:0.0001
+INFO:root:Total episodes: 37 | Total processed frames: 106574 | Average reward: 1214.29 | Loss: 134002.01 lr:0.0001
+INFO:root:Total episodes: 38 | Total processed frames: 110800 | Average reward: 1204.15 | Loss: 136857.26 lr:0.0001
+INFO:root:Total episodes: 40 | Total processed frames: 114992 | Average reward: 1246.42 | Loss: 141175.24 lr:0.0001
+INFO:root:Total episodes: 40 | Total processed frames: 119219 | Average reward: 1246.42 | Loss: 141175.24 lr:0.0001
+INFO:root:Total episodes: 42 | Total processed frames: 123449 | Average reward: 1304.98 | Loss: 151555.78 lr:0.0001
+INFO:root:Total episodes: 43 | Total processed frames: 127683 | Average reward: 1486.63 | Loss: 153575.22 lr:0.0001
+INFO:root:Total episodes: 45 | Total processed frames: 131873 | Average reward: 1492.94 | Loss: 158275.60 lr:0.0001
+INFO:root:Total episodes: 45 | Total processed frames: 136127 | Average reward: 1492.94 | Loss: 158275.60 lr:0.0001
+INFO:root:Total episodes: 45 | Total processed frames: 140314 | Average reward: 1492.94 | Loss: 158275.60 lr:0.0001
+INFO:root:Total episodes: 47 | Total processed frames: 144609 | Average reward: 1896.10 | Loss: 228321.14 lr:0.0001
+INFO:root:Total episodes: 49 | Total processed frames: 148889 | Average reward: 2130.29 | Loss: 252369.05 lr:0.0001
+INFO:root:Total episodes: 50 | Total processed frames: 153165 | Average reward: 2116.98 | Loss: 263087.14 lr:0.0001
+INFO:root:Total episodes: 51 | Total processed frames: 157421 | Average reward: 2111.81 | Loss: 261779.22 lr:0.0001
+INFO:root:Total episodes: 53 | Total processed frames: 161741 | Average reward: 2369.71 | Loss: 280548.46 lr:0.0001
+INFO:root:Total episodes: 56 | Total processed frames: 166330 | Average reward: 2457.63 | Loss: 299109.08 lr:0.0001
+INFO:root:Total episodes: 57 | Total processed frames: 170628 | Average reward: 2469.35 | Loss: 298865.36 lr:0.0001
+INFO:root:Total episodes: 59 | Total processed frames: 175297 | Average reward: 2436.21 | Loss: 294044.56 lr:0.0001
+INFO:root:Total episodes: 60 | Total processed frames: 179541 | Average reward: 2472.05 | Loss: 297541.90 lr:0.0001
+INFO:root:Total episodes: 60 | Total processed frames: 183808 | Average reward: 2472.05 | Loss: 297541.90 lr:0.0001
+INFO:root:Total episodes: 64 | Total processed frames: 188062 | Average reward: 2487.38 | Loss: 298319.15 lr:0.0001
+INFO:root:Total episodes: 64 | Total processed frames: 192313 | Average reward: 2487.38 | Loss: 298319.15 lr:0.0001
+INFO:root:Total episodes: 68 | Total processed frames: 196571 | Average reward: 2552.15 | Loss: 308028.46 lr:0.0001
+INFO:root:Total episodes: 69 | Total processed frames: 200753 | Average reward: 2554.73 | Loss: 307281.46 lr:0.0001
+INFO:root:Total episodes: 71 | Total processed frames: 205395 | Average reward: 2702.94 | Loss: 319870.41 lr:0.0001
+INFO:root:Total episodes: 72 | Total processed frames: 209610 | Average reward: 2681.92 | Loss: 317494.53 lr:0.0001
+INFO:root:Total episodes: 74 | Total processed frames: 213912 | Average reward: 2693.05 | Loss: 317239.43 lr:0.0001
+INFO:root:Total episodes: 76 | Total processed frames: 218211 | Average reward: 2671.43 | Loss: 313355.22 lr:0.0001
+INFO:root:Total episodes: 76 | Total processed frames: 222592 | Average reward: 2671.43 | Loss: 313355.22 lr:0.0001
+INFO:root:Total episodes: 76 | Total processed frames: 226877 | Average reward: 2671.43 | Loss: 313355.22 lr:0.0001
+INFO:root:Total episodes: 76 | Total processed frames: 231095 | Average reward: 2671.43 | Loss: 313355.22 lr:0.0001
+INFO:root:Total episodes: 77 | Total processed frames: 235437 | Average reward: 2704.92 | Loss: 315567.51 lr:0.0001
+INFO:root:Total episodes: 78 | Total processed frames: 239788 | Average reward: 2766.17 | Loss: 333611.34 lr:0.0001
+INFO:root:Total episodes: 81 | Total processed frames: 244030 | Average reward: 2716.13 | Loss: 332876.37 lr:0.0001
+INFO:root:Total episodes: 82 | Total processed frames: 248241 | Average reward: 2690.97 | Loss: 329617.15 lr:0.0001
+INFO:root:Total episodes: 84 | Total processed frames: 252487 | Average reward: 2684.96 | Loss: 329088.56 lr:0.0001
+INFO:root:Total episodes: 89 | Total processed frames: 256799 | Average reward: 2712.72 | Loss: 350081.32 lr:0.0001
+INFO:root:Total episodes: 90 | Total processed frames: 261087 | Average reward: 2713.80 | Loss: 347997.45 lr:0.0001
+INFO:root:Total episodes: 91 | Total processed frames: 265391 | Average reward: 2736.96 | Loss: 349884.94 lr:0.0001
+INFO:root:Total episodes: 93 | Total processed frames: 269694 | Average reward: 2726.73 | Loss: 345535.31 lr:0.0001
+INFO:root:Total episodes: 94 | Total processed frames: 273975 | Average reward: 2791.66 | Loss: 354575.05 lr:0.0001
+INFO:root:Total episodes: 97 | Total processed frames: 278356 | Average reward: 2762.54 | Loss: 347024.54 lr:0.0001
+INFO:root:Total episodes: 102 | Total processed frames: 282634 | Average reward: 2687.05 | Loss: 348358.43 lr:0.0001
+INFO:root:Total episodes: 106 | Total processed frames: 286919 | Average reward: 2606.95 | Loss: 337192.72 lr:0.0001
+INFO:root:Total episodes: 109 | Total processed frames: 291260 | Average reward: 2561.58 | Loss: 331694.37 lr:0.0001
+INFO:root:Total episodes: 112 | Total processed frames: 295558 | Average reward: 2497.32 | Loss: 324215.84 lr:0.0001
+INFO:root:Total episodes: 114 | Total processed frames: 299815 | Average reward: 2457.58 | Loss: 318766.80 lr:0.0001
+INFO:root:Total episodes: 115 | Total processed frames: 304033 | Average reward: 2441.00 | Loss: 316860.46 lr:0.0001
+INFO:root:Total episodes: 118 | Total processed frames: 308205 | Average reward: 2394.34 | Loss: 309748.86 lr:0.0001
+INFO:root:Total episodes: 124 | Total processed frames: 312432 | Average reward: 2328.36 | Loss: 298921.74 lr:0.0001
+INFO:root:Total episodes: 128 | Total processed frames: 316612 | Average reward: 2268.32 | Loss: 290206.14 lr:0.0001
+INFO:root:Total episodes: 134 | Total processed frames: 320817 | Average reward: 2172.53 | Loss: 276856.18 lr:0.0001
+INFO:root:Total episodes: 137 | Total processed frames: 324995 | Average reward: 2125.68 | Loss: 271891.33 lr:0.0001
+INFO:root:Total episodes: 142 | Total processed frames: 329224 | Average reward: 2058.65 | Loss: 261752.53 lr:0.0001
+INFO:root:Total episodes: 145 | Total processed frames: 333424 | Average reward: 2003.47 | Loss: 255867.29 lr:0.0001
+INFO:root:Total episodes: 149 | Total processed frames: 337595 | Average reward: 2035.20 | Loss: 263581.63 lr:0.0001
+INFO:root:Total episodes: 154 | Total processed frames: 341793 | Average reward: 1953.24 | Loss: 253933.73 lr:0.0001
+INFO:root:Total episodes: 160 | Total processed frames: 345972 | Average reward: 1893.95 | Loss: 245490.94 lr:0.0001
+INFO:root:Total episodes: 161 | Total processed frames: 350130 | Average reward: 1881.01 | Loss: 243422.41 lr:0.0001
+INFO:root:Total episodes: 161 | Total processed frames: 354343 | Average reward: 1881.01 | Loss: 243422.41 lr:0.0001
+INFO:root:Total episodes: 163 | Total processed frames: 358549 | Average reward: 1851.56 | Loss: 239813.61 lr:0.0001
+INFO:root:Total episodes: 163 | Total processed frames: 362715 | Average reward: 1851.56 | Loss: 239813.61 lr:0.0001
+INFO:root:Total episodes: 165 | Total processed frames: 366899 | Average reward: 1886.21 | Loss: 241608.45 lr:0.0001
+INFO:root:Total episodes: 168 | Total processed frames: 371110 | Average reward: 1849.95 | Loss: 236014.51 lr:0.0001
+INFO:root:Total episodes: 169 | Total processed frames: 375278 | Average reward: 1833.45 | Loss: 234485.20 lr:0.0001
+INFO:root:Total episodes: 171 | Total processed frames: 379458 | Average reward: 1804.88 | Loss: 231883.01 lr:0.0001
+INFO:root:Total episodes: 173 | Total processed frames: 383646 | Average reward: 1839.05 | Loss: 231397.56 lr:0.0001
+INFO:root:Total episodes: 178 | Total processed frames: 387832 | Average reward: 1858.20 | Loss: 261218.46 lr:0.0001
+INFO:root:Total episodes: 180 | Total processed frames: 392047 | Average reward: 1829.14 | Loss: 257310.50 lr:0.0001
+INFO:root:Total episodes: 183 | Total processed frames: 396272 | Average reward: 1873.48 | Loss: 257100.97 lr:0.0001
+INFO:root:Total episodes: 185 | Total processed frames: 400446 | Average reward: 1890.12 | Loss: 254750.34 lr:0.0001
+INFO:root:Total episodes: 188 | Total processed frames: 404638 | Average reward: 1914.15 | Loss: 253219.63 lr:0.0001
+INFO:root:Total episodes: 191 | Total processed frames: 408837 | Average reward: 1879.14 | Loss: 248995.28 lr:0.0001
+INFO:root:Total episodes: 194 | Total processed frames: 413078 | Average reward: 1868.63 | Loss: 245005.44 lr:0.0001
+INFO:root:Total episodes: 195 | Total processed frames: 417249 | Average reward: 1851.94 | Loss: 242650.63 lr:0.0001
+INFO:root:Total episodes: 195 | Total processed frames: 421459 | Average reward: 1851.94 | Loss: 242650.63 lr:0.0001
+INFO:root:The model has been saved. Nb of frames processed: 425647
+
+INFO:root:Total episodes: 195 | Total processed frames: 425653 | Average reward: 1851.94 | Loss: 242650.63 lr:0.0001
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstDigital' (KacstDigital.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-R.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstPoster' (KacstPoster.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Meera' (Meera-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Tamil Classical' (Lohit-Tamil-Classical.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Mono' (NotoMono-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sawasdee' (Sawasdee-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Laksaman' (Laksaman-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstTitleL' (KacstTitleL.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Bookman' (URWBookman-Light.otf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-CondLightItalic.ttf) italic normal light condensed>) = 11.44
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Dyuthi' (Dyuthi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Padauk Book' (PadaukBook-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans' (NimbusSans-BoldItalic.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-SemiBold.ttf) normal normal semibold normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rekha' (Rekha.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-MI.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Standard Symbols PS' (StandardSymbolsPS.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Assamese' (Lohit-Assamese.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Regular.ttf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Manjari' (Manjari-Thin.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-SemiBold.ttf) normal normal semibold normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tibetan Machine Uni' (TibetanMachineUni.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Garuda' (Garuda-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-Th.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans Condensed' (OpenSans-CondBold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Gothic' (URWGothic-Book.otf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Padauk' (Padauk-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstLetter' (KacstLetter.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mitra Mono' (mitra.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSerif' (FreeSerifBoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sahadeva' (sahadeva.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'RaghuMalayalamSans' (RaghuMalayalamSans-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Italic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans' (NimbusSans-Italic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-LI.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstFarsi' (KacstFarsi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Italic.otf) italic normal roman normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-BoldItalic.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Uroob' (Uroob-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Suruma' (Suruma.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstArt' (KacstArt.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samyak Malayalam' (Samyak-Malayalam.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Manjari' (Manjari-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Bold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kalapi' (Kalapi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Roman' (NimbusRoman-BoldItalic.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gayathri' (Gayathri-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waree' (Waree.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Gothic' (URWGothic-BookOblique.otf) oblique normal book normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gayathri' (Gayathri-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sarai' (Sarai.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waree' (Waree-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-LightItalic.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'AnjaliOldLipi' (AnjaliOldLipi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chandas' (chandas1-2.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'P052' (P052-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Garuda' (Garuda-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-SemiboldItalic.ttf) italic normal semibold normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ani' (ani.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Khmer OS System' (KhmerOSsys.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mukti Narrow' (MuktiNarrow.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Semibold.ttf) normal normal semibold normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstOne' (KacstOne.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstNaskh' (KacstNaskh.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Karumbi' (Karumbi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typist' (TlwgTypist.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-Light.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans' (NimbusSans-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Bengali' (Lohit-Bengali.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Khmer OS' (KhmerOS.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Italic.ttf) italic normal 400 condensed>) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Saab' (Saab.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-RI.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Condensed' (Ubuntu-C.ttf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Gothic' (URWGothic-DemiOblique.otf) oblique normal demi normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Purisa' (Purisa-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstOffice' (KacstOffice.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Loma' (Loma-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-Light.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Regular.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sawasdee' (Sawasdee-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstQurn' (KacstQurn.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Regular.otf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Laksaman' (Laksaman.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'P052' (P052-Roman.otf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nakula' (nakula.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Mono' (TlwgMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstScreen' (KacstScreen.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSans' (FreeSansOblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'C059' (C059-Roman.otf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'P052' (P052-BoldItalic.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstTitle' (KacstTitle.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samyak Devanagari' (Samyak-Devanagari.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'aakar' (aakar-medium.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Purisa' (Purisa-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mukti Narrow' (MuktiNarrowBold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Jamrul' (JamrulNormal.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstPen' (KacstPen.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-BoldOblique.otf) oblique normal 700 condensed>) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rachana' (Rachana-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Regular.otf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Phetsarath OT' (Phetsarath_OT.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-L.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSans' (FreeSansBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Likhan' (LikhanNormal.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'padmaa-Bold.1.1' (padmaa-Bold.1.1.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Mono' (TlwgMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Loma' (Loma-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstOne' (KacstOne-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typo' (TlwgTypo-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-ExtraBoldItalic.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'C059' (C059-Italic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rachana' (Rachana-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Mono' (TlwgMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Gujarati' (Lohit-Gujarati.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Purisa' (Purisa.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-B.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gargi' (Gargi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-R.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Bookman' (URWBookman-Demi.otf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSerif' (FreeSerifItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-BI.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'mry_KacstQurn' (mry_KacstQurn.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Garuda' (Garuda.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Pagul' (Pagul.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Kannada' (Lohit-Kannada.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'C059' (C059-BdIta.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Keraleeyam' (Keraleeyam-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'LKLUG' (lklug.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Pothana2000' (Pothana2000.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Loma' (Loma.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSans' (FreeSansBold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-RI.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Droid Sans Fallback' (DroidSansFallbackFull.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSerif' (FreeSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Bookman' (URWBookman-DemiItalic.otf) italic normal book normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typo' (TlwgTypo.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kalimati' (kalimati.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-Medium.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSans' (FreeSans.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-ExtraBold.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstDecorative' (KacstDecorative.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'D050000L' (D050000L.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Laksaman' (Laksaman-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Devanagari' (Lohit-Devanagari.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'P052' (P052-Italic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Gothic' (URWGothic-Demi.otf) normal normal demi normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Purisa' (Purisa-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gayathri' (Gayathri-Thin.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Abyssinica SIL' (AbyssinicaSIL-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Gurmukhi' (Lohit-Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Bookman' (URWBookman-LightItalic.otf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Laksaman' (Laksaman-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-B.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waree' (Waree-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Padauk' (Padauk-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-Light.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samyak Gujarati' (Samyak-Gujarati.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Manjari' (Manjari-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'OpenSymbol' (opens___.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Vemana2000' (vemana2000.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstBook' (KacstBook.ttf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-CondLight.ttf) normal normal light condensed>) = 10.44
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'padmaa' (padmaa.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans' (NimbusSans-Regular.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waree' (Waree-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Padauk Book' (PadaukBook-Regular.ttf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'C059' (C059-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chilanka' (Chilanka-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sawasdee' (Sawasdee.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Bold.otf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Z003' (Z003-MediumItalic.otf) italic normal medium normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Tamil' (Lohit-Tamil.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typist' (TlwgTypist-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Oblique.otf) oblique normal 400 condensed>) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Telugu' (Lohit-Telugu.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Malayalam' (Lohit-Malayalam.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Garuda' (Garuda-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samyak Tamil' (Samyak-Tamil.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-LightOblique.ttf) oblique normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Light.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sawasdee' (Sawasdee-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Loma' (Loma-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gubbi' (Gubbi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-M.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-Medium.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samanata' (samanata.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Navilu' (Navilu.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Mono' (TlwgMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'ori1Uni' (utkal.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'padmaa' (padmaa-Medium-0.5.ttf) normal normal normal normal>) = 10.0
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSerif' (FreeSerifBold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Odia' (Lohit-Odia.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-BI.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/home/jonas/anaconda3/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstDigital' (KacstDigital.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-R.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeMono' (FreeMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstPoster' (KacstPoster.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Meera' (Meera-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Tamil Classical' (Lohit-Tamil-Classical.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Mono' (NotoMono-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sawasdee' (Sawasdee-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Laksaman' (Laksaman-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstTitleL' (KacstTitleL.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Bookman' (URWBookman-Light.otf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-CondLightItalic.ttf) italic normal light condensed>) = 11.44
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Dyuthi' (Dyuthi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Padauk Book' (PadaukBook-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans' (NimbusSans-BoldItalic.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-SemiBold.ttf) normal normal semibold normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rekha' (Rekha.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-MI.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Standard Symbols PS' (StandardSymbolsPS.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Assamese' (Lohit-Assamese.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Regular.ttf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Manjari' (Manjari-Thin.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-SemiBold.ttf) normal normal semibold normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tibetan Machine Uni' (TibetanMachineUni.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Garuda' (Garuda-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-Th.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans Condensed' (OpenSans-CondBold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Gothic' (URWGothic-Book.otf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Padauk' (Padauk-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstLetter' (KacstLetter.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mitra Mono' (mitra.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSerif' (FreeSerifBoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sahadeva' (sahadeva.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'RaghuMalayalamSans' (RaghuMalayalamSans-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Italic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans' (NimbusSans-Italic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-LI.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstFarsi' (KacstFarsi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Italic.otf) italic normal roman normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-BoldItalic.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Uroob' (Uroob-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Suruma' (Suruma.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstArt' (KacstArt.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samyak Malayalam' (Samyak-Malayalam.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Manjari' (Manjari-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Bold.ttf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kalapi' (Kalapi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Roman' (NimbusRoman-BoldItalic.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gayathri' (Gayathri-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waree' (Waree.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Gothic' (URWGothic-BookOblique.otf) oblique normal book normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typist' (TlwgTypist-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gayathri' (Gayathri-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sarai' (Sarai.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waree' (Waree-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-LightItalic.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'AnjaliOldLipi' (AnjaliOldLipi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chandas' (chandas1-2.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'P052' (P052-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Garuda' (Garuda-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-SemiboldItalic.ttf) italic normal semibold normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ani' (ani.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Khmer OS System' (KhmerOSsys.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Bold.ttc) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mukti Narrow' (MuktiNarrow.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Semibold.ttf) normal normal semibold normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstOne' (KacstOne.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstNaskh' (KacstNaskh.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Karumbi' (Karumbi-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typist' (TlwgTypist.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-Light.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans' (NimbusSans-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Bengali' (Lohit-Bengali.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Khmer OS' (KhmerOS.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-Italic.ttf) italic normal 400 condensed>) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Saab' (Saab.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-RI.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Condensed' (Ubuntu-C.ttf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Gothic' (URWGothic-DemiOblique.otf) oblique normal demi normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Purisa' (Purisa-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstOffice' (KacstOffice.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Loma' (Loma-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-Light.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Regular.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sawasdee' (Sawasdee-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstQurn' (KacstQurn.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Regular.otf) normal normal 400 condensed>) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Laksaman' (Laksaman.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'P052' (P052-Roman.otf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nakula' (nakula.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Mono' (TlwgMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstScreen' (KacstScreen.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSans' (FreeSansOblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'C059' (C059-Roman.otf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'P052' (P052-BoldItalic.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstTitle' (KacstTitle.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samyak Devanagari' (Samyak-Devanagari.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typewriter' (TlwgTypewriter-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'aakar' (aakar-medium.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Purisa' (Purisa-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mukti Narrow' (MuktiNarrowBold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Jamrul' (JamrulNormal.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstPen' (KacstPen.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-BoldOblique.otf) oblique normal 700 condensed>) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rachana' (Rachana-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Roman' (NimbusRoman-Regular.otf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Phetsarath OT' (Phetsarath_OT.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-L.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSans' (FreeSansBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Likhan' (LikhanNormal.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'padmaa-Bold.1.1' (padmaa-Bold.1.1.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Mono' (TlwgMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Loma' (Loma-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstOne' (KacstOne-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typo' (TlwgTypo-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-ExtraBoldItalic.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'C059' (C059-Italic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rachana' (Rachana-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Mono' (TlwgMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Gujarati' (Lohit-Gujarati.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Purisa' (Purisa.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-B.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gargi' (Gargi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-R.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Bookman' (URWBookman-Demi.otf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSerif' (FreeSerifItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-BI.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'mry_KacstQurn' (mry_KacstQurn.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Garuda' (Garuda.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Pagul' (Pagul.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Kannada' (Lohit-Kannada.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'C059' (C059-BdIta.otf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Keraleeyam' (Keraleeyam-Regular.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'LKLUG' (lklug.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Pothana2000' (Pothana2000.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeMono' (FreeMonoOblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Loma' (Loma.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSans' (FreeSansBold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-RI.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Droid Sans Fallback' (DroidSansFallbackFull.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSerif' (FreeSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Bookman' (URWBookman-DemiItalic.otf) italic normal book normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typo' (TlwgTypo.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kalimati' (kalimati.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-Medium.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSans' (FreeSans.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-ExtraBold.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstDecorative' (KacstDecorative.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'D050000L' (D050000L.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans Narrow' (LiberationSansNarrow-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeMono' (FreeMonoBold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Laksaman' (Laksaman-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Devanagari' (Lohit-Devanagari.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'P052' (P052-Italic.otf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Gothic' (URWGothic-Demi.otf) normal normal demi normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Purisa' (Purisa-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gayathri' (Gayathri-Thin.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typo' (TlwgTypo-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Abyssinica SIL' (AbyssinicaSIL-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Gurmukhi' (Lohit-Gurmukhi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'URW Bookman' (URWBookman-LightItalic.otf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Laksaman' (Laksaman-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-B.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waree' (Waree-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Padauk' (Padauk-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeMono' (FreeMonoBoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yrsa' (Yrsa-Light.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samyak Gujarati' (Samyak-Gujarati.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Manjari' (Manjari-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'OpenSymbol' (opens___.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Vemana2000' (vemana2000.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'KacstBook' (KacstBook.ttf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-CondLight.ttf) normal normal light condensed>) = 10.44
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'padmaa' (padmaa.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans' (NimbusSans-Regular.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Waree' (Waree-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Padauk Book' (PadaukBook-Regular.ttf) normal normal book normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'C059' (C059-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Chilanka' (Chilanka-Regular.otf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sawasdee' (Sawasdee.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Bold.otf) normal normal 700 condensed>) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Regular.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Z003' (Z003-MediumItalic.otf) italic normal medium normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Tamil' (Lohit-Tamil.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Typist' (TlwgTypist-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Sans Narrow' (NimbusSansNarrow-Oblique.otf) oblique normal 400 condensed>) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Serif' (LiberationSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Telugu' (Lohit-Telugu.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Malayalam' (Lohit-Malayalam.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Garuda' (Garuda-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samyak Tamil' (Samyak-Tamil.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-LightOblique.ttf) oblique normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Open Sans' (OpenSans-Light.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Kinnari' (Kinnari-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sawasdee' (Sawasdee-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Loma' (Loma-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gubbi' (Gubbi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Norasi' (Norasi-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu' (Ubuntu-M.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Sans CJK JP' (NotoSansCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Rasa' (Rasa-Medium.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nimbus Mono PS' (NimbusMonoPS-Bold.otf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Samanata' (samanata.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Navilu' (Navilu.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tlwg Mono' (TlwgMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'ori1Uni' (utkal.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'padmaa' (padmaa-Medium-0.5.ttf) normal normal normal normal>) = 10.0
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'FreeSerif' (FreeSerifBold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lohit Odia' (Lohit-Odia.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ubuntu Mono' (UbuntuMono-BI.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Noto Serif CJK JP' (NotoSerifCJK-Regular.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Mono' (LiberationMono-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Liberation Sans' (LiberationSans-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Umpush' (Umpush-Bold.ttf) normal normal 700 normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/jonas/anaconda3/lib/python3.8/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+INFO:root:Total episodes: 197 | Total processed frames: 430176 | Average reward: 1819.07 | Loss: 238500.83 lr:0.0001
+INFO:root:Total episodes: 198 | Total processed frames: 434390 | Average reward: 1802.88 | Loss: 237051.58 lr:0.0001
+INFO:root:Total episodes: 198 | Total processed frames: 438634 | Average reward: 1802.88 | Loss: 237051.58 lr:0.0001
+INFO:root:Total episodes: 200 | Total processed frames: 442815 | Average reward: 1770.98 | Loss: 233918.21 lr:0.0001
+INFO:root:Total episodes: 202 | Total processed frames: 447024 | Average reward: 1827.30 | Loss: 239407.78 lr:0.0001
+INFO:root:Total episodes: 202 | Total processed frames: 451256 | Average reward: 1827.30 | Loss: 239407.78 lr:0.0001
+INFO:root:Total episodes: 202 | Total processed frames: 455461 | Average reward: 1827.30 | Loss: 239407.78 lr:0.0001
+INFO:root:Total episodes: 205 | Total processed frames: 459647 | Average reward: 1777.00 | Loss: 234982.53 lr:0.0001
+INFO:root:Total episodes: 205 | Total processed frames: 463891 | Average reward: 1777.00 | Loss: 234982.53 lr:0.0001
+INFO:root:Total episodes: 208 | Total processed frames: 468134 | Average reward: 1730.16 | Loss: 230765.60 lr:0.0001
+INFO:root:Total episodes: 208 | Total processed frames: 472343 | Average reward: 1730.16 | Loss: 230765.60 lr:0.0001
+INFO:root:Total episodes: 208 | Total processed frames: 476569 | Average reward: 1730.16 | Loss: 230765.60 lr:0.0001
+INFO:root:Total episodes: 212 | Total processed frames: 480792 | Average reward: 1721.95 | Loss: 226203.22 lr:0.0001
+INFO:root:Total episodes: 216 | Total processed frames: 489200 | Average reward: 1663.96 | Loss: 219577.49 lr:0.0001
+INFO:root:Total episodes: 218 | Total processed frames: 493534 | Average reward: 1634.83 | Loss: 215624.43 lr:0.0001
+INFO:root:Total episodes: 218 | Total processed frames: 497819 | Average reward: 1634.83 | Loss: 215624.43 lr:0.0001
+INFO:root:Total episodes: 218 | Total processed frames: 502128 | Average reward: 1634.83 | Loss: 215624.43 lr:0.0001
+INFO:root:Total episodes: 292 | Total processed frames: 859769 | Average reward: 2747.73 | Loss: 393222.27 lr:0.0001
+INFO:root:Total episodes: 293 | Total processed frames: 864047 | Average reward: 2722.25 | Loss: 389553.40 lr:0.0001
+INFO:root:Total episodes: 294 | Total processed frames: 868353 | Average reward: 2697.03 | Loss: 385998.12 lr:0.0001
+INFO:root:Total episodes: 295 | Total processed frames: 872628 | Average reward: 2672.06 | Loss: 382291.21 lr:0.0001
+INFO:root:Total episodes: 295 | Total processed frames: 876906 | Average reward: 2672.06 | Loss: 382291.21 lr:0.0001
+INFO:root:Total episodes: 296 | Total processed frames: 881198 | Average reward: 2699.54 | Loss: 381055.80 lr:0.0001
+INFO:root:Total episodes: 300 | Total processed frames: 885521 | Average reward: 2912.35 | Loss: 424221.71 lr:0.0001
+INFO:root:Total episodes: 303 | Total processed frames: 889841 | Average reward: 2829.79 | Loss: 414833.22 lr:0.0001
+INFO:root:Total episodes: 304 | Total processed frames: 894178 | Average reward: 2803.49 | Loss: 411007.19 lr:0.0001
+INFO:root:Total episodes: 308 | Total processed frames: 898442 | Average reward: 2698.94 | Loss: 397301.04 lr:0.0001
+INFO:root:Total episodes: 312 | Total processed frames: 902790 | Average reward: 2598.50 | Loss: 384699.08 lr:0.0001
+INFO:root:Total episodes: 313 | Total processed frames: 907240 | Average reward: 2572.51 | Loss: 381417.80 lr:0.0001
+INFO:root:Total episodes: 315 | Total processed frames: 911586 | Average reward: 2535.18 | Loss: 375243.35 lr:0.0001
+INFO:root:Total episodes: 318 | Total processed frames: 915987 | Average reward: 2509.24 | Loss: 368564.62 lr:0.0001
+INFO:root:Total episodes: 320 | Total processed frames: 920380 | Average reward: 2738.06 | Loss: 493220.12 lr:0.0001
+INFO:root:Total episodes: 322 | Total processed frames: 924735 | Average reward: 2773.41 | Loss: 490789.94 lr:0.0001
+INFO:root:Total episodes: 322 | Total processed frames: 929008 | Average reward: 2773.41 | Loss: 490789.94 lr:0.0001
+INFO:root:Total episodes: 323 | Total processed frames: 933391 | Average reward: 2779.98 | Loss: 488126.76 lr:0.0001
+INFO:root:Total episodes: 325 | Total processed frames: 937651 | Average reward: 2738.52 | Loss: 480352.64 lr:0.0001
+INFO:root:Total episodes: 326 | Total processed frames: 941874 | Average reward: 2871.63 | Loss: 477840.37 lr:0.0001
+INFO:root:Total episodes: 329 | Total processed frames: 946178 | Average reward: 3191.02 | Loss: 530802.14 lr:0.0001
+INFO:root:Total episodes: 329 | Total processed frames: 950517 | Average reward: 3191.02 | Loss: 530802.14 lr:0.0001
+INFO:root:Total episodes: 329 | Total processed frames: 954917 | Average reward: 3191.02 | Loss: 530802.14 lr:0.0001
+INFO:root:Total episodes: 329 | Total processed frames: 959281 | Average reward: 3191.02 | Loss: 530802.14 lr:0.0001
+INFO:root:Total episodes: 332 | Total processed frames: 963558 | Average reward: 3250.12 | Loss: 536411.78 lr:0.0001
+INFO:root:Total episodes: 335 | Total processed frames: 967925 | Average reward: 3255.55 | Loss: 533527.22 lr:0.0001
+INFO:root:Total episodes: 336 | Total processed frames: 972162 | Average reward: 3265.09 | Loss: 532166.22 lr:0.0001
+INFO:root:Total episodes: 337 | Total processed frames: 976358 | Average reward: 3268.64 | Loss: 529011.48 lr:0.0001
+INFO:root:Total episodes: 337 | Total processed frames: 980661 | Average reward: 3268.64 | Loss: 529011.48 lr:0.0001
+INFO:root:Total episodes: 338 | Total processed frames: 984922 | Average reward: 3270.16 | Loss: 524972.79 lr:0.0001
+INFO:root:Total episodes: 339 | Total processed frames: 989172 | Average reward: 3259.65 | Loss: 521110.07 lr:0.0001
+INFO:root:Total episodes: 341 | Total processed frames: 993575 | Average reward: 3429.32 | Loss: 523410.15 lr:0.0001
+INFO:root:Total episodes: 343 | Total processed frames: 997889 | Average reward: 3418.52 | Loss: 519855.42 lr:0.0001
+INFO:root:Total episodes: 346 | Total processed frames: 1002225 | Average reward: 3411.93 | Loss: 512384.39 lr:0.0001
+INFO:root:Total episodes: 347 | Total processed frames: 1006412 | Average reward: 3442.11 | Loss: 511038.88 lr:0.0001
+INFO:root:Total episodes: 350 | Total processed frames: 1010707 | Average reward: 3406.22 | Loss: 499615.10 lr:0.0001
+INFO:root:Total episodes: 352 | Total processed frames: 1015068 | Average reward: 3366.62 | Loss: 491844.56 lr:0.0001
+INFO:root:Total episodes: 353 | Total processed frames: 1019399 | Average reward: 3383.35 | Loss: 491074.61 lr:0.0001
+INFO:root:Total episodes: 354 | Total processed frames: 1023754 | Average reward: 3399.72 | Loss: 489918.67 lr:0.0001
+INFO:root:Total episodes: 355 | Total processed frames: 1028137 | Average reward: 3419.92 | Loss: 487087.13 lr:0.0001
+INFO:root:Total episodes: 358 | Total processed frames: 1032487 | Average reward: 3429.65 | Loss: 479227.62 lr:0.0001
+INFO:root:Total episodes: 360 | Total processed frames: 1036741 | Average reward: 3433.06 | Loss: 474362.14 lr:0.0001
+INFO:root:Total episodes: 361 | Total processed frames: 1040994 | Average reward: 3416.93 | Loss: 470434.08 lr:0.0001
+INFO:root:Total episodes: 362 | Total processed frames: 1045233 | Average reward: 3394.96 | Loss: 466655.51 lr:0.0001
+INFO:root:Total episodes: 362 | Total processed frames: 1049442 | Average reward: 3394.96 | Loss: 466655.51 lr:0.0001
+INFO:root:Total episodes: 365 | Total processed frames: 1053778 | Average reward: 3343.98 | Loss: 455988.89 lr:0.0001
+INFO:root:Total episodes: 367 | Total processed frames: 1058095 | Average reward: 3335.71 | Loss: 452642.62 lr:0.0001
+INFO:root:Total episodes: 371 | Total processed frames: 1062460 | Average reward: 3412.98 | Loss: 456887.26 lr:0.0001
+INFO:root:Total episodes: 372 | Total processed frames: 1066729 | Average reward: 3407.15 | Loss: 454353.24 lr:0.0001
+INFO:root:Total episodes: 373 | Total processed frames: 1070990 | Average reward: 3399.08 | Loss: 451385.98 lr:0.0001
+INFO:root:Total episodes: 374 | Total processed frames: 1075333 | Average reward: 3465.49 | Loss: 468254.52 lr:0.0001
+INFO:root:Total episodes: 375 | Total processed frames: 1079605 | Average reward: 3469.14 | Loss: 465374.38 lr:0.0001
+INFO:root:Total episodes: 377 | Total processed frames: 1083857 | Average reward: 3458.24 | Loss: 461835.67 lr:0.0001
+INFO:root:Total episodes: 377 | Total processed frames: 1088088 | Average reward: 3458.24 | Loss: 461835.67 lr:0.0001
+INFO:root:Total episodes: 378 | Total processed frames: 1092356 | Average reward: 3481.66 | Loss: 461564.56 lr:0.0001
+INFO:root:Total episodes: 381 | Total processed frames: 1096634 | Average reward: 3558.06 | Loss: 454873.27 lr:0.0001
+INFO:root:Total episodes: 383 | Total processed frames: 1101077 | Average reward: 3679.44 | Loss: 448018.89 lr:0.0001
+INFO:root:Total episodes: 386 | Total processed frames: 1105447 | Average reward: 3617.50 | Loss: 454141.78 lr:0.0001
+INFO:root:Total episodes: 389 | Total processed frames: 1109832 | Average reward: 3671.23 | Loss: 452985.24 lr:0.0001
+INFO:root:Total episodes: 391 | Total processed frames: 1114094 | Average reward: 3736.87 | Loss: 446198.58 lr:0.0001
+INFO:root:Total episodes: 394 | Total processed frames: 1118376 | Average reward: 3631.82 | Loss: 444993.93 lr:0.0001
+INFO:root:Total episodes: 397 | Total processed frames: 1122707 | Average reward: 3771.40 | Loss: 574135.18 lr:0.0001
+INFO:root:Total episodes: 398 | Total processed frames: 1127045 | Average reward: 3923.68 | Loss: 661105.45 lr:0.0001
+INFO:root:Total episodes: 400 | Total processed frames: 1131372 | Average reward: 3935.78 | Loss: 663836.78 lr:0.0001
+INFO:root:Total episodes: 401 | Total processed frames: 1135737 | Average reward: 3898.42 | Loss: 657859.33 lr:0.0001
+INFO:root:Total episodes: 402 | Total processed frames: 1140071 | Average reward: 3861.44 | Loss: 651889.04 lr:0.0001
+INFO:root:Total episodes: 403 | Total processed frames: 1144381 | Average reward: 3824.82 | Loss: 646224.48 lr:0.0001
+INFO:root:Total episodes: 403 | Total processed frames: 1148662 | Average reward: 3824.82 | Loss: 646224.48 lr:0.0001
+INFO:root:Total episodes: 404 | Total processed frames: 1152885 | Average reward: 3836.67 | Loss: 642957.85 lr:0.0001
+INFO:root:Total episodes: 405 | Total processed frames: 1157200 | Average reward: 3826.41 | Loss: 638213.68 lr:0.0001
+INFO:root:Total episodes: 405 | Total processed frames: 1161561 | Average reward: 3826.41 | Loss: 638213.68 lr:0.0001
+INFO:root:Total episodes: 406 | Total processed frames: 1165879 | Average reward: 3824.44 | Loss: 633982.15 lr:0.0001
+INFO:root:Total episodes: 409 | Total processed frames: 1170220 | Average reward: 3816.61 | Loss: 621958.59 lr:0.0001
+INFO:root:Total episodes: 410 | Total processed frames: 1174482 | Average reward: 3862.75 | Loss: 643981.72 lr:0.0001
+INFO:root:Total episodes: 411 | Total processed frames: 1178778 | Average reward: 3826.12 | Loss: 638092.69 lr:0.0001
+INFO:root:Total episodes: 411 | Total processed frames: 1183002 | Average reward: 3826.12 | Loss: 638092.69 lr:0.0001
+INFO:root:Total episodes: 411 | Total processed frames: 1187242 | Average reward: 3826.12 | Loss: 638092.69 lr:0.0001
+INFO:root:Total episodes: 413 | Total processed frames: 1191497 | Average reward: 3753.96 | Loss: 626423.85 lr:0.0001
+INFO:root:Total episodes: 417 | Total processed frames: 1195739 | Average reward: 3897.66 | Loss: 724357.91 lr:0.0001
+INFO:root:Total episodes: 418 | Total processed frames: 1199992 | Average reward: 3860.68 | Loss: 717246.71 lr:0.0001
+INFO:root:Total episodes: 421 | Total processed frames: 1204348 | Average reward: 3892.48 | Loss: 706240.64 lr:0.0001
+INFO:root:Total episodes: 422 | Total processed frames: 1208573 | Average reward: 3855.56 | Loss: 699995.56 lr:0.0001
+INFO:root:The model has been saved. Nb of frames processed: 1212844
+
+INFO:root:Total episodes: 424 | Total processed frames: 1212847 | Average reward: 3782.81 | Loss: 686405.07 lr:0.0001
+INFO:root:Total episodes: 425 | Total processed frames: 1217206 | Average reward: 3912.98 | Loss: 812095.57 lr:0.0001
+INFO:root:Total episodes: 426 | Total processed frames: 1221552 | Average reward: 3875.85 | Loss: 804703.21 lr:0.0001
+INFO:root:Total episodes: 428 | Total processed frames: 1225882 | Average reward: 3812.60 | Loss: 789939.22 lr:0.0001
+INFO:root:Total episodes: 430 | Total processed frames: 1230188 | Average reward: 3740.71 | Loss: 775624.45 lr:0.0001
+INFO:root:Total episodes: 436 | Total processed frames: 1234497 | Average reward: 3752.18 | Loss: 812512.25 lr:0.0001
+INFO:root:Total episodes: 440 | Total processed frames: 1238731 | Average reward: 3610.23 | Loss: 782560.69 lr:0.0001
+INFO:root:Total episodes: 442 | Total processed frames: 1242928 | Average reward: 3540.39 | Loss: 768286.94 lr:0.0001
+INFO:root:Total episodes: 444 | Total processed frames: 1247171 | Average reward: 3527.69 | Loss: 755450.01 lr:0.0001
+INFO:root:Total episodes: 447 | Total processed frames: 1251398 | Average reward: 3542.55 | Loss: 750229.22 lr:0.0001
+INFO:root:Total episodes: 449 | Total processed frames: 1255614 | Average reward: 3474.03 | Loss: 736154.86 lr:0.0001
+INFO:root:Total episodes: 451 | Total processed frames: 1259855 | Average reward: 3406.88 | Loss: 722181.22 lr:0.0001
+INFO:root:Total episodes: 454 | Total processed frames: 1264136 | Average reward: 3349.65 | Loss: 703039.71 lr:0.0001
+INFO:root:Total episodes: 457 | Total processed frames: 1268419 | Average reward: 3474.55 | Loss: 742976.81 lr:0.0001
+INFO:root:Total episodes: 460 | Total processed frames: 1272655 | Average reward: 3377.30 | Loss: 722736.08 lr:0.0001
+INFO:root:Total episodes: 465 | Total processed frames: 1276942 | Average reward: 3308.90 | Loss: 720247.73 lr:0.0001
+INFO:root:Total episodes: 466 | Total processed frames: 1281231 | Average reward: 3277.82 | Loss: 713370.97 lr:0.0001
+INFO:root:Total episodes: 467 | Total processed frames: 1285554 | Average reward: 3423.04 | Loss: 783283.53 lr:0.0001
+INFO:root:Total episodes: 467 | Total processed frames: 1289839 | Average reward: 3423.04 | Loss: 783283.53 lr:0.0001
+INFO:root:Total episodes: 467 | Total processed frames: 1294173 | Average reward: 3423.04 | Loss: 783283.53 lr:0.0001
+INFO:root:Total episodes: 468 | Total processed frames: 1298491 | Average reward: 3511.01 | Loss: 787306.87 lr:0.0001
+INFO:root:Total episodes: 469 | Total processed frames: 1302815 | Average reward: 3821.60 | Loss: 855134.18 lr:0.0001
+INFO:root:Total episodes: 471 | Total processed frames: 1307127 | Average reward: 4134.22 | Loss: 945089.84 lr:0.0001
+INFO:root:Total episodes: 507 | Total processed frames: 1415894 | Average reward: 5199.45 | Loss: 1237476.91 lr:0.0001
+INFO:root:Total episodes: 509 | Total processed frames: 1420235 | Average reward: 5300.12 | Loss: 1274732.97 lr:0.0001
+INFO:root:Total episodes: 512 | Total processed frames: 1424553 | Average reward: 5220.40 | Loss: 1241948.78 lr:0.0001
+INFO:root:Total episodes: 515 | Total processed frames: 1429012 | Average reward: 5163.09 | Loss: 1220117.00 lr:0.0001
+INFO:root:Total episodes: 516 | Total processed frames: 1433328 | Average reward: 5127.46 | Loss: 1208727.18 lr:0.0001
+INFO:root:Total episodes: 517 | Total processed frames: 1437576 | Average reward: 5269.98 | Loss: 1199472.34 lr:0.0001
+INFO:root:Total episodes: 518 | Total processed frames: 1441864 | Average reward: 5417.48 | Loss: 1229806.59 lr:0.0001
+INFO:root:Total episodes: 518 | Total processed frames: 1446130 | Average reward: 5417.48 | Loss: 1229806.59 lr:0.0001
+INFO:root:Total episodes: 520 | Total processed frames: 1450434 | Average reward: 5403.71 | Loss: 1218747.70 lr:0.0001
+INFO:root:Total episodes: 522 | Total processed frames: 1454699 | Average reward: 5613.42 | Loss: 1225044.07 lr:0.0001
+INFO:root:Total episodes: 526 | Total processed frames: 1458994 | Average reward: 5524.01 | Loss: 1189329.35 lr:0.0001
+INFO:root:Total episodes: 527 | Total processed frames: 1463310 | Average reward: 5470.77 | Loss: 1177607.33 lr:0.0001
+INFO:root:Total episodes: 528 | Total processed frames: 1467585 | Average reward: 5424.06 | Loss: 1166289.40 lr:0.0001
+INFO:root:Total episodes: 531 | Total processed frames: 1471845 | Average reward: 5548.25 | Loss: 1167818.98 lr:0.0001
+INFO:root:Total episodes: 531 | Total processed frames: 1476142 | Average reward: 5548.25 | Loss: 1167818.98 lr:0.0001
+INFO:root:Total episodes: 534 | Total processed frames: 1480412 | Average reward: 5662.86 | Loss: 1144192.86 lr:0.0001
+INFO:root:Total episodes: 536 | Total processed frames: 1484711 | Average reward: 5796.61 | Loss: 1129840.54 lr:0.0001
+INFO:root:Total episodes: 536 | Total processed frames: 1488971 | Average reward: 5796.61 | Loss: 1129840.54 lr:0.0001
+INFO:root:Total episodes: 536 | Total processed frames: 1493235 | Average reward: 5796.61 | Loss: 1129840.54 lr:0.0001
+INFO:root:Total episodes: 539 | Total processed frames: 1497614 | Average reward: 5889.51 | Loss: 1128366.27 lr:0.0001
+INFO:root:Total episodes: 540 | Total processed frames: 1501927 | Average reward: 5864.61 | Loss: 1118983.31 lr:0.0001
+INFO:root:Total episodes: 541 | Total processed frames: 1506224 | Average reward: 5990.67 | Loss: 1112690.94 lr:0.0001
+INFO:root:Total episodes: 542 | Total processed frames: 1510558 | Average reward: 5981.06 | Loss: 1103670.77 lr:0.0001
+INFO:root:Total episodes: 544 | Total processed frames: 1514863 | Average reward: 5938.05 | Loss: 1097074.21 lr:0.0001
+INFO:root:Total episodes: 544 | Total processed frames: 1519152 | Average reward: 5938.05 | Loss: 1097074.21 lr:0.0001
+INFO:root:Total episodes: 545 | Total processed frames: 1523490 | Average reward: 5984.97 | Loss: 1091502.29 lr:0.0001
+INFO:root:Total episodes: 546 | Total processed frames: 1527813 | Average reward: 5969.52 | Loss: 1082858.95 lr:0.0001
+INFO:root:Total episodes: 550 | Total processed frames: 1532079 | Average reward: 5876.84 | Loss: 1066555.98 lr:0.0001
+INFO:root:Total episodes: 550 | Total processed frames: 1536337 | Average reward: 5876.84 | Loss: 1066555.98 lr:0.0001
+INFO:root:Total episodes: 551 | Total processed frames: 1540618 | Average reward: 5876.37 | Loss: 1062323.99 lr:0.0001
+INFO:root:Total episodes: 552 | Total processed frames: 1544853 | Average reward: 5845.60 | Loss: 1053200.99 lr:0.0001
+INFO:root:Total episodes: 554 | Total processed frames: 1549118 | Average reward: 5982.55 | Loss: 1048810.31 lr:0.0001
+INFO:root:Total episodes: 555 | Total processed frames: 1553389 | Average reward: 6087.33 | Loss: 1040580.09 lr:0.0001
+INFO:root:Total episodes: 555 | Total processed frames: 1557641 | Average reward: 6087.33 | Loss: 1040580.09 lr:0.0001
+INFO:root:Total episodes: 560 | Total processed frames: 1561889 | Average reward: 5962.16 | Loss: 1017685.50 lr:0.0001
+INFO:root:Total episodes: 560 | Total processed frames: 1566175 | Average reward: 5962.16 | Loss: 1017685.50 lr:0.0001
+INFO:root:Total episodes: 562 | Total processed frames: 1570449 | Average reward: 6021.73 | Loss: 1003571.43 lr:0.0001
+INFO:root:Total episodes: 563 | Total processed frames: 1574745 | Average reward: 5963.51 | Loss: 996341.72 lr:0.0001
+INFO:root:Total episodes: 563 | Total processed frames: 1579002 | Average reward: 5963.51 | Loss: 996341.72 lr:0.0001
+INFO:root:Total episodes: 565 | Total processed frames: 1583251 | Average reward: 6264.05 | Loss: 985253.01 lr:0.0001
+INFO:root:Total episodes: 565 | Total processed frames: 1587429 | Average reward: 6264.05 | Loss: 985253.01 lr:0.0001
+INFO:root:Total episodes: 567 | Total processed frames: 1591655 | Average reward: 6413.10 | Loss: 978228.82 lr:0.0001
+INFO:root:Total episodes: 569 | Total processed frames: 1595915 | Average reward: 6347.41 | Loss: 970650.18 lr:0.0001
+INFO:root:Total episodes: 569 | Total processed frames: 1600167 | Average reward: 6347.41 | Loss: 970650.18 lr:0.0001
+INFO:root:Total episodes: 571 | Total processed frames: 1604461 | Average reward: 6519.97 | Loss: 982546.11 lr:0.0001
+INFO:root:Total episodes: 571 | Total processed frames: 1608784 | Average reward: 6519.97 | Loss: 982546.11 lr:0.0001
+INFO:root:Total episodes: 572 | Total processed frames: 1613011 | Average reward: 6622.97 | Loss: 975697.09 lr:0.0001
+INFO:root:Total episodes: 574 | Total processed frames: 1617311 | Average reward: 6682.66 | Loss: 966759.87 lr:0.0001
+INFO:root:Total episodes: 575 | Total processed frames: 1621583 | Average reward: 6798.94 | Loss: 967247.96 lr:0.0001
+INFO:root:Total episodes: 576 | Total processed frames: 1625824 | Average reward: 6913.65 | Loss: 963061.27 lr:0.0001
+INFO:root:Total episodes: 577 | Total processed frames: 1630082 | Average reward: 6846.51 | Loss: 960001.72 lr:0.0001
+INFO:root:Total episodes: 578 | Total processed frames: 1634361 | Average reward: 6970.25 | Loss: 963355.82 lr:0.0001
+INFO:root:Total episodes: 579 | Total processed frames: 1638644 | Average reward: 7105.24 | Loss: 959663.72 lr:0.0001
+INFO:root:Total episodes: 581 | Total processed frames: 1642895 | Average reward: 7188.51 | Loss: 950255.22 lr:0.0001
+INFO:root:Total episodes: 585 | Total processed frames: 1647161 | Average reward: 7063.90 | Loss: 940003.95 lr:0.0001
+INFO:root:Total episodes: 588 | Total processed frames: 1651378 | Average reward: 6941.21 | Loss: 928049.52 lr:0.0001
+INFO:root:Total episodes: 590 | Total processed frames: 1655640 | Average reward: 6874.90 | Loss: 915974.97 lr:0.0001
+INFO:root:Total episodes: 593 | Total processed frames: 1659901 | Average reward: 6840.03 | Loss: 905803.11 lr:0.0001
+INFO:root:Total episodes: 594 | Total processed frames: 1664175 | Average reward: 6831.83 | Loss: 900006.40 lr:0.0001
+INFO:root:Total episodes: 594 | Total processed frames: 1668474 | Average reward: 6831.83 | Loss: 900006.40 lr:0.0001
+INFO:root:Total episodes: 607 | Total processed frames: 1705255 | Average reward: 7189.58 | Loss: 919099.46 lr:0.0001
+INFO:root:Total episodes: 607 | Total processed frames: 1709613 | Average reward: 7189.58 | Loss: 919099.46 lr:0.0001
+INFO:root:Total episodes: 609 | Total processed frames: 1714219 | Average reward: 7308.15 | Loss: 1009551.63 lr:0.0001
+INFO:root:Total episodes: 609 | Total processed frames: 1718643 | Average reward: 7308.15 | Loss: 1009551.63 lr:0.0001
+INFO:root:Total episodes: 612 | Total processed frames: 1723014 | Average reward: 7400.68 | Loss: 1054635.33 lr:0.0001
+INFO:root:Total episodes: 614 | Total processed frames: 1727271 | Average reward: 7317.55 | Loss: 1038862.72 lr:0.0001
+INFO:root:Total episodes: 616 | Total processed frames: 1731560 | Average reward: 7288.20 | Loss: 1029186.75 lr:0.0001
+INFO:root:Total episodes: 617 | Total processed frames: 1735890 | Average reward: 7261.62 | Loss: 1023655.71 lr:0.0001
+INFO:root:Total episodes: 620 | Total processed frames: 1740184 | Average reward: 7126.86 | Loss: 997810.33 lr:0.0001
+INFO:root:Total episodes: 621 | Total processed frames: 1744495 | Average reward: 7157.79 | Loss: 1008964.04 lr:0.0001
+INFO:root:Total episodes: 623 | Total processed frames: 1748760 | Average reward: 7239.21 | Loss: 1021046.62 lr:0.0001
+INFO:root:Total episodes: 623 | Total processed frames: 1753084 | Average reward: 7239.21 | Loss: 1021046.62 lr:0.0001
+INFO:root:Total episodes: 625 | Total processed frames: 1757397 | Average reward: 7310.57 | Loss: 1008850.39 lr:0.0001
+INFO:root:Total episodes: 628 | Total processed frames: 1761680 | Average reward: 7316.62 | Loss: 988146.50 lr:0.0001
+INFO:root:Total episodes: 633 | Total processed frames: 1765957 | Average reward: 7207.33 | Loss: 956672.70 lr:0.0001
+INFO:root:Total episodes: 633 | Total processed frames: 1770238 | Average reward: 7207.33 | Loss: 956672.70 lr:0.0001
+INFO:root:Total episodes: 634 | Total processed frames: 1774533 | Average reward: 7181.45 | Loss: 952468.58 lr:0.0001
+INFO:root:The model has been saved. Nb of frames processed: 1778778
+
+INFO:root:Total episodes: 636 | Total processed frames: 1778781 | Average reward: 7129.94 | Loss: 949324.30 lr:0.0001
+INFO:root:Total episodes: 636 | Total processed frames: 1783242 | Average reward: 7129.94 | Loss: 949324.30 lr:0.0001
+INFO:root:Total episodes: 637 | Total processed frames: 1787633 | Average reward: 7253.24 | Loss: 942199.82 lr:0.0001
+INFO:root:Total episodes: 638 | Total processed frames: 1792042 | Average reward: 7360.41 | Loss: 941832.68 lr:0.0001
+INFO:root:Total episodes: 640 | Total processed frames: 1796375 | Average reward: 7243.79 | Loss: 931174.07 lr:0.0001
+INFO:root:Total episodes: 644 | Total processed frames: 1800827 | Average reward: 7225.21 | Loss: 925608.08 lr:0.0001
+INFO:root:Total episodes: 650 | Total processed frames: 1805310 | Average reward: 7394.44 | Loss: 968090.81 lr:0.0001
+INFO:root:Total episodes: 655 | Total processed frames: 1809690 | Average reward: 7034.00 | Loss: 923828.96 lr:0.0001
+INFO:root:Total episodes: 658 | Total processed frames: 1814029 | Average reward: 6938.11 | Loss: 906615.79 lr:0.0001
+INFO:root:Total episodes: 658 | Total processed frames: 1818413 | Average reward: 6938.11 | Loss: 906615.79 lr:0.0001
+INFO:root:Total episodes: 661 | Total processed frames: 1822685 | Average reward: 7222.65 | Loss: 1017595.84 lr:0.0001
+INFO:root:Total episodes: 662 | Total processed frames: 1827006 | Average reward: 7196.42 | Loss: 1010143.99 lr:0.0001
+INFO:root:Total episodes: 664 | Total processed frames: 1831382 | Average reward: 7239.55 | Loss: 1000536.95 lr:0.0001
+INFO:root:Total episodes: 665 | Total processed frames: 1835655 | Average reward: 7209.26 | Loss: 992536.42 lr:0.0001
+INFO:root:Total episodes: 666 | Total processed frames: 1839981 | Average reward: 7165.17 | Loss: 983705.53 lr:0.0001
+INFO:root:Total episodes: 670 | Total processed frames: 1844473 | Average reward: 7222.65 | Loss: 981218.43 lr:0.0001
+INFO:root:Total episodes: 673 | Total processed frames: 1848802 | Average reward: 7234.37 | Loss: 1041741.90 lr:0.0001
+INFO:root:Total episodes: 676 | Total processed frames: 1853141 | Average reward: 7074.57 | Loss: 1020795.07 lr:0.0001
+INFO:root:Total episodes: 678 | Total processed frames: 1857466 | Average reward: 7019.98 | Loss: 1024725.38 lr:0.0001
+INFO:root:Total episodes: 679 | Total processed frames: 1861759 | Average reward: 6949.78 | Loss: 1014646.95 lr:0.0001
+INFO:root:Total episodes: 680 | Total processed frames: 1866039 | Average reward: 7192.59 | Loss: 1055400.04 lr:0.0001
+INFO:root:Total episodes: 680 | Total processed frames: 1870412 | Average reward: 7192.59 | Loss: 1055400.04 lr:0.0001
+INFO:root:Total episodes: 682 | Total processed frames: 1875075 | Average reward: 7165.75 | Loss: 1085145.85 lr:0.0001
+INFO:root:Total episodes: 685 | Total processed frames: 1879358 | Average reward: 7318.23 | Loss: 1147457.29 lr:0.0001
+INFO:root:Total episodes: 688 | Total processed frames: 1883808 | Average reward: 7261.43 | Loss: 1120590.11 lr:0.0001
+INFO:root:Total episodes: 692 | Total processed frames: 1888139 | Average reward: 7001.40 | Loss: 1084116.22 lr:0.0001
+INFO:root:Total episodes: 694 | Total processed frames: 1892528 | Average reward: 6909.61 | Loss: 1068719.97 lr:0.0001
+INFO:root:Total episodes: 695 | Total processed frames: 1896883 | Average reward: 7174.62 | Loss: 1084995.18 lr:0.0001
+INFO:root:Total episodes: 695 | Total processed frames: 1901213 | Average reward: 7174.62 | Loss: 1084995.18 lr:0.0001
+INFO:root:Total episodes: 696 | Total processed frames: 1905545 | Average reward: 7170.97 | Loss: 1077169.20 lr:0.0001
+INFO:root:Total episodes: 700 | Total processed frames: 1909885 | Average reward: 7073.92 | Loss: 1055766.85 lr:0.0001
+INFO:root:Total episodes: 702 | Total processed frames: 1914204 | Average reward: 6991.13 | Loss: 1038543.39 lr:0.0001
+INFO:root:Total episodes: 703 | Total processed frames: 1918518 | Average reward: 6921.22 | Loss: 1028377.02 lr:0.0001
+INFO:root:Total episodes: 704 | Total processed frames: 1922773 | Average reward: 6854.00 | Loss: 1018215.70 lr:0.0001
+INFO:root:Total episodes: 705 | Total processed frames: 1927076 | Average reward: 6909.86 | Loss: 1020545.36 lr:0.0001
+INFO:root:Total episodes: 705 | Total processed frames: 1931443 | Average reward: 6909.86 | Loss: 1020545.36 lr:0.0001
+INFO:root:Total episodes: 707 | Total processed frames: 1935758 | Average reward: 7253.01 | Loss: 1156480.21 lr:0.0001
+INFO:root:Total episodes: 708 | Total processed frames: 1940082 | Average reward: 7180.48 | Loss: 1150534.99 lr:0.0001
+INFO:root:Total episodes: 710 | Total processed frames: 1944372 | Average reward: 7235.33 | Loss: 1130710.52 lr:0.0001
+INFO:root:Total episodes: 711 | Total processed frames: 1948694 | Average reward: 7259.37 | Loss: 1137183.41 lr:0.0001
+INFO:root:Total episodes: 712 | Total processed frames: 1952968 | Average reward: 7276.88 | Loss: 1137091.74 lr:0.0001
+INFO:root:Total episodes: 713 | Total processed frames: 1957200 | Average reward: 7294.31 | Loss: 1143688.02 lr:0.0001
+INFO:root:Total episodes: 714 | Total processed frames: 1961568 | Average reward: 7323.67 | Loss: 1160117.46 lr:0.0001
+INFO:root:Total episodes: 716 | Total processed frames: 1965875 | Average reward: 7428.10 | Loss: 1243474.35 lr:0.0001
+INFO:root:Total episodes: 719 | Total processed frames: 1970212 | Average reward: 7337.97 | Loss: 1213303.43 lr:0.0001
+INFO:root:Total episodes: 721 | Total processed frames: 1974468 | Average reward: 7222.22 | Loss: 1190866.50 lr:0.0001
+INFO:root:Total episodes: 724 | Total processed frames: 1978774 | Average reward: 7065.45 | Loss: 1158437.43 lr:0.0001
+INFO:root:Total episodes: 726 | Total processed frames: 1983104 | Average reward: 7206.65 | Loss: 1270408.68 lr:0.0001
+INFO:root:Total episodes: 729 | Total processed frames: 1987333 | Average reward: 7231.45 | Loss: 1241940.38 lr:0.0001
+INFO:root:Total episodes: 733 | Total processed frames: 1991672 | Average reward: 7095.60 | Loss: 1208576.61 lr:0.0001
+INFO:root:Total episodes: 735 | Total processed frames: 1996008 | Average reward: 7029.98 | Loss: 1189011.99 lr:0.0001
+INFO:root:Total episodes: 739 | Total processed frames: 2000324 | Average reward: 6915.86 | Loss: 1166637.41 lr:0.0001
+INFO:root:Total episodes: 741 | Total processed frames: 2004670 | Average reward: 6798.23 | Loss: 1145431.03 lr:0.0001
+INFO:root:Total episodes: 745 | Total processed frames: 2008949 | Average reward: 6854.39 | Loss: 1138107.27 lr:0.0001
+INFO:root:Total episodes: 745 | Total processed frames: 2013202 | Average reward: 6854.39 | Loss: 1138107.27 lr:0.0001
+INFO:root:Total episodes: 746 | Total processed frames: 2017459 | Average reward: 6984.25 | Loss: 1179768.51 lr:0.0001
+INFO:root:Total episodes: 747 | Total processed frames: 2021787 | Average reward: 7098.60 | Loss: 1334001.93 lr:0.0001
+INFO:root:Total episodes: 748 | Total processed frames: 2026134 | Average reward: 7339.82 | Loss: 1398461.67 lr:0.0001
+INFO:root:Total episodes: 750 | Total processed frames: 2030431 | Average reward: 7432.19 | Loss: 1378405.15 lr:0.0001
+INFO:root:Total episodes: 754 | Total processed frames: 2034694 | Average reward: 7380.86 | Loss: 1382665.44 lr:0.0001
+INFO:root:Total episodes: 756 | Total processed frames: 2038930 | Average reward: 7263.70 | Loss: 1359597.41 lr:0.0001
+INFO:root:Total episodes: 757 | Total processed frames: 2043180 | Average reward: 7263.26 | Loss: 1349375.86 lr:0.0001
+INFO:root:Total episodes: 757 | Total processed frames: 2047426 | Average reward: 7263.26 | Loss: 1349375.86 lr:0.0001
+INFO:root:Total episodes: 758 | Total processed frames: 2051760 | Average reward: 7236.93 | Loss: 1339391.83 lr:0.0001
+INFO:root:Total episodes: 759 | Total processed frames: 2056105 | Average reward: 7346.66 | Loss: 1386224.10 lr:0.0001
+INFO:root:Total episodes: 761 | Total processed frames: 2060434 | Average reward: 7480.19 | Loss: 1373634.63 lr:0.0001
+INFO:root:Total episodes: 765 | Total processed frames: 2064795 | Average reward: 7327.82 | Loss: 1343728.00 lr:0.0001
+INFO:root:Total episodes: 765 | Total processed frames: 2069135 | Average reward: 7327.82 | Loss: 1343728.00 lr:0.0001
+INFO:root:Total episodes: 767 | Total processed frames: 2073430 | Average reward: 7398.14 | Loss: 1380946.64 lr:0.0001
+INFO:root:Total episodes: 771 | Total processed frames: 2077745 | Average reward: 7373.39 | Loss: 1432493.77 lr:0.0001
+INFO:root:Total episodes: 772 | Total processed frames: 2082025 | Average reward: 7359.65 | Loss: 1422074.67 lr:0.0001
+INFO:root:Total episodes: 775 | Total processed frames: 2086350 | Average reward: 7301.45 | Loss: 1393051.33 lr:0.0001
+INFO:root:Total episodes: 776 | Total processed frames: 2090665 | Average reward: 7270.63 | Loss: 1379986.63 lr:0.0001
+INFO:root:Total episodes: 776 | Total processed frames: 2094941 | Average reward: 7270.63 | Loss: 1379986.63 lr:0.0001
+INFO:root:Total episodes: 777 | Total processed frames: 2099265 | Average reward: 7275.93 | Loss: 1370845.53 lr:0.0001
+INFO:root:Total episodes: 779 | Total processed frames: 2103619 | Average reward: 7626.59 | Loss: 1372549.79 lr:0.0001
+INFO:root:Total episodes: 783 | Total processed frames: 2107955 | Average reward: 7602.43 | Loss: 1333330.41 lr:0.0001
+INFO:root:Total episodes: 783 | Total processed frames: 2112202 | Average reward: 7602.43 | Loss: 1333330.41 lr:0.0001
+INFO:root:Total episodes: 783 | Total processed frames: 2116416 | Average reward: 7602.43 | Loss: 1333330.41 lr:0.0001
+INFO:root:Total episodes: 785 | Total processed frames: 2120674 | Average reward: 7555.10 | Loss: 1322657.99 lr:0.0001
+INFO:root:Total episodes: 786 | Total processed frames: 2124933 | Average reward: 7676.75 | Loss: 1315944.19 lr:0.0001
+INFO:root:Total episodes: 787 | Total processed frames: 2129177 | Average reward: 7634.29 | Loss: 1303680.78 lr:0.0001
+INFO:root:Total episodes: 788 | Total processed frames: 2133481 | Average reward: 7724.64 | Loss: 1292107.79 lr:0.0001
+INFO:root:Total episodes: 788 | Total processed frames: 2137805 | Average reward: 7724.64 | Loss: 1292107.79 lr:0.0001
+INFO:root:Total episodes: 789 | Total processed frames: 2142082 | Average reward: 7912.60 | Loss: 1288969.55 lr:0.0001
+INFO:root:Total episodes: 792 | Total processed frames: 2146403 | Average reward: 7873.78 | Loss: 1264754.27 lr:0.0001
+INFO:root:Total episodes: 793 | Total processed frames: 2150716 | Average reward: 8039.24 | Loss: 1263017.46 lr:0.0001
+INFO:root:Total episodes: 796 | Total processed frames: 2154998 | Average reward: 7936.10 | Loss: 1240601.19 lr:0.0001
+INFO:root:Total episodes: 797 | Total processed frames: 2159325 | Average reward: 7864.74 | Loss: 1228417.32 lr:0.0001
+INFO:root:Total episodes: 799 | Total processed frames: 2163605 | Average reward: 7808.07 | Loss: 1211881.18 lr:0.0001
+INFO:root:Total episodes: 801 | Total processed frames: 2167970 | Average reward: 7754.15 | Loss: 1197266.64 lr:0.0001
+INFO:root:Total episodes: 802 | Total processed frames: 2172251 | Average reward: 7776.91 | Loss: 1193200.49 lr:0.0001
+INFO:root:Total episodes: 803 | Total processed frames: 2176525 | Average reward: 7725.44 | Loss: 1182230.83 lr:0.0001
+INFO:root:Total episodes: 804 | Total processed frames: 2180805 | Average reward: 7658.38 | Loss: 1173328.65 lr:0.0001
+INFO:root:Total episodes: 804 | Total processed frames: 2185169 | Average reward: 7658.38 | Loss: 1173328.65 lr:0.0001
+INFO:root:Total episodes: 806 | Total processed frames: 2189510 | Average reward: 7875.74 | Loss: 1155732.03 lr:0.0001
+INFO:root:Total episodes: 808 | Total processed frames: 2193838 | Average reward: 7821.25 | Loss: 1137981.77 lr:0.0001
+INFO:root:Total episodes: 808 | Total processed frames: 2198125 | Average reward: 7821.25 | Loss: 1137981.77 lr:0.0001
+INFO:root:Total episodes: 808 | Total processed frames: 2202388 | Average reward: 7821.25 | Loss: 1137981.77 lr:0.0001
+INFO:root:Total episodes: 810 | Total processed frames: 2206680 | Average reward: 8051.79 | Loss: 1121040.01 lr:0.0001
+INFO:root:The model has been saved. Nb of frames processed: 2210993
+
+INFO:root:Total episodes: 811 | Total processed frames: 2210995 | Average reward: 7987.28 | Loss: 1113212.24 lr:0.0001
+INFO:root:Total episodes: 813 | Total processed frames: 2215485 | Average reward: 8289.99 | Loss: 1107209.76 lr:0.0001
+INFO:root:Total episodes: 814 | Total processed frames: 2219827 | Average reward: 8247.09 | Loss: 1100869.12 lr:0.0001
+INFO:root:Total episodes: 815 | Total processed frames: 2224292 | Average reward: 8180.82 | Loss: 1093682.16 lr:0.0001
+INFO:root:Total episodes: 817 | Total processed frames: 2228596 | Average reward: 8107.86 | Loss: 1079781.40 lr:0.0001
+INFO:root:Total episodes: 820 | Total processed frames: 2232971 | Average reward: 8132.09 | Loss: 1080223.11 lr:0.0001
+INFO:root:Total episodes: 822 | Total processed frames: 2237333 | Average reward: 8073.90 | Loss: 1065484.23 lr:0.0001
+INFO:root:Total episodes: 823 | Total processed frames: 2241634 | Average reward: 8019.36 | Loss: 1055576.66 lr:0.0001
+INFO:root:Total episodes: 827 | Total processed frames: 2245898 | Average reward: 7966.94 | Loss: 1020387.02 lr:0.0001
+INFO:root:Total episodes: 828 | Total processed frames: 2250235 | Average reward: 7931.27 | Loss: 1013814.11 lr:0.0001
+INFO:root:Total episodes: 830 | Total processed frames: 2254537 | Average reward: 7860.66 | Loss: 1009394.38 lr:0.0001
+INFO:root:Total episodes: 831 | Total processed frames: 2258865 | Average reward: 7982.75 | Loss: 1002924.36 lr:0.0001
+INFO:root:Total episodes: 833 | Total processed frames: 2263204 | Average reward: 8000.98 | Loss: 996858.77 lr:0.0001
+INFO:root:Total episodes: 835 | Total processed frames: 2267580 | Average reward: 7923.80 | Loss: 985496.00 lr:0.0001
+INFO:root:Total episodes: 835 | Total processed frames: 2271979 | Average reward: 7923.80 | Loss: 985496.00 lr:0.0001
+INFO:root:Total episodes: 837 | Total processed frames: 2276274 | Average reward: 7968.49 | Loss: 976688.52 lr:0.0001
+INFO:root:Total episodes: 840 | Total processed frames: 2280713 | Average reward: 7935.44 | Loss: 958055.02 lr:0.0001
+INFO:root:Total episodes: 841 | Total processed frames: 2284975 | Average reward: 8028.29 | Loss: 949900.24 lr:0.0001
+INFO:root:Total episodes: 843 | Total processed frames: 2289385 | Average reward: 8075.97 | Loss: 939116.84 lr:0.0001
+INFO:root:Total episodes: 843 | Total processed frames: 2293669 | Average reward: 8075.97 | Loss: 939116.84 lr:0.0001
+INFO:root:Total episodes: 845 | Total processed frames: 2298077 | Average reward: 8132.11 | Loss: 924058.12 lr:0.0001
+INFO:root:Total episodes: 848 | Total processed frames: 2302482 | Average reward: 7935.86 | Loss: 906192.43 lr:0.0001
+INFO:root:Total episodes: 854 | Total processed frames: 2306847 | Average reward: 7553.22 | Loss: 869217.44 lr:0.0001
+INFO:root:Total episodes: 856 | Total processed frames: 2311140 | Average reward: 7443.19 | Loss: 855057.04 lr:0.0001
+INFO:root:Total episodes: 857 | Total processed frames: 2315491 | Average reward: 7442.75 | Loss: 851205.45 lr:0.0001
+INFO:root:Total episodes: 859 | Total processed frames: 2319869 | Average reward: 7380.68 | Loss: 839492.42 lr:0.0001
