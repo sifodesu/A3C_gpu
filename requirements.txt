@@ -1,0 +1,7 @@
+matplotlib==3.3.3
+scipy==1.5.4
+numpy==1.19.3
+gym==0.18.0
+retro==2.9.0
+skimage==0.0
+torch==1.7.1
