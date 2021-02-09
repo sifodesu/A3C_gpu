@@ -35,7 +35,7 @@ class A3C_Model(nn.Module):
         return self.actor(gru_x), self.critic(gru_x), gru_x
 
     def load_checkpoint(self, checkpoint_path):
-        checkpoint_paths = glob.glob(os.path.join(checkpoint_path, '*.ckpt'))
+        checkpoint_paths = glob.glob(os.path.join(checkpoint_path, '*.backup'))
         print(checkpoint_paths)
         print(os.path.join(checkpoint_path, '*.ckpt'))
         if checkpoint_paths:

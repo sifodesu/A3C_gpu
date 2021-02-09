@@ -16,11 +16,11 @@ logging.getLogger().setLevel(logging.INFO)
 
 if __name__ == "__main__":
     args = parse()
-    args.checkpoint_path = args.env + '-' + args.envState + '-hidden' + str(args.hidden_gru_size) + '-batch' + str(args.no_batch_norm) + ('.deeper' if args.deeper else '') + '/' 
+    args.checkpoint_path = args.env + '-hidden' + str(args.hidden_gru_size) + '-batch' + str(args.no_batch_norm) + ('.deeper' if args.deeper else '') + '/' 
     if args.test:
           args.numWorkers = 1 
           args.lr = 0
-    args.num_actions = retro.make(args.env).action_space.n 
+    args.num_actions = gym.make(args.env).action_space.n 
     if not os.path.exists(args.checkpoint_path):
         os.makedirs(args.checkpoint_path) 
 

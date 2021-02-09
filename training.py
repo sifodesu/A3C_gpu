@@ -1,11 +1,9 @@
 import numpy as np
 import torch, logging, gym
 import matplotlib.pyplot as plt
-import retro
 from a3c_model import *
 from utils import *
 import os.path
-from datetime import datetime, timedelta
 
 NB_FRAMES_MAX = 8e7
 NB_FRAMES_CHECKPOINT = 1e5
@@ -14,7 +12,7 @@ NB_FRAMES_PLOT = 1e5
 
 EP_LENGHT_MAX = 1e4
 GAMMA = 0.99
-ENTROPY_FACTOR = 0.00
+ENTROPY_FACTOR = 0.01
 
 def compute_actor_loss(values, rewards, actions, log_prob):
     delta_t = rewards + GAMMA * values.view(-1).data[1:] - values.view(-1).data[:-1]
@@ -49,21 +47,19 @@ def run(args, log, shared_model, shared_optim, worker_index):
     logging.getLogger().setLevel(logging.INFO)
     logging.basicConfig(filename=args.log_path,level=logging.DEBUG)
     
-    env = retro.make(args.env, args.envState) 
+    env = gym.make(args.env) 
     env.seed(worker_index) 
     torch.manual_seed(worker_index) 
     shared_gradient_initialized = False
     model = A3C_Model(channels=1, hidden_gru_size=args.hidden_gru_size, num_actions=args.num_actions, use_batch_norm=args.no_batch_norm, deeper=args.deeper) # a local/unshared model
     state = torch.tensor(preprocess_frame(env.reset())) 
 
-    ep_length = ep_reward = ep_loss = avg_speed = 0
-    old_x = old_y = None 
+    ep_length = ep_reward = ep_loss = 0 
     done = True 
     last_ep_reward = None
     local_n_frames = 0
 
     while True: 
-        last_render = datetime.min
         values = []
         log_prob = []
         actions = []
@@ -82,45 +78,14 @@ def run(args, log, shared_model, shared_optim, worker_index):
             log_prob.append(torch.nn.functional.log_softmax(logits, dim=-1))
             action = torch.exp(torch.nn.functional.log_softmax(logits, dim=-1)).multinomial(num_samples=1).data[0]
             actions.append(action)
-            actionArray = np.zeros(args.num_actions, dtype=bool)
-            actionArray[action] = 1
-            state, reward, done, gamedata = env.step(actionArray)
-            
-
-            
+            state, reward, done, _ = env.step(action.cpu().numpy()[0])
             ep_reward += reward
             if args.no_render and worker_index == 0:
-                while args.test and datetime.now() - last_render < timedelta(microseconds = 16666):
-                    pass
-                
-                last_render = datetime.now()    
                 env.render()
-                
 
             state = torch.tensor(preprocess_frame(state))  
-            if gamedata['dead'] == 0 : #penalize death and finishes 
-                done = True
-                reward = -10
-            if gamedata['endOfLevel'] == 1:
-            	reward = +10 #big reward when finishing level
-
             
-
-            reward = reward + (gamedata['x'] - old_x if old_x is not None else 0) + (max(2*(old_y - gamedata['jump']) , -1) if old_y is not None else 0) # reward for going right and up, y pos reverted
-            
-            if old_x is not None:
-                avg_speed = 0.999*(max(gamedata['x'] - old_x,0)) + 0.001*avg_speed
-            if avg_speed < 0.01 :
-                reward -= 0.5
-                #if worker_index == 0:
-                #    print('tata')
-            reward/=10
-            #if worker_index == 0:
-            #    print(reward)
-            #    print(gamedata)
-            
-            old_x = gamedata['x']
-            old_y = gamedata['jump']
+            reward = max(min(reward, 1), -1) 
             rewards.append(reward)
             done = done or ep_length >= EP_LENGHT_MAX
             
@@ -139,7 +104,7 @@ def run(args, log, shared_model, shared_optim, worker_index):
                 log['ep_loss_avg'] *= 1-history
                 log['ep_loss_avg'] += history * ep_loss
                 
-                #lr_scheduler.step(log['ep_reward_avg'])
+                lr_scheduler.step(log['ep_reward_avg'])
 
                 if worker_index == 0:
                     rewards_log.append(log['ep_reward_avg'].item())
@@ -209,8 +174,9 @@ def run(args, log, shared_model, shared_optim, worker_index):
         if not args.test:
             shared_optim.zero_grad()
             loss.backward()
-            #torch.nn.utils.clip_grad_norm_(model.parameters(), 45)
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 45)
             if not shared_gradient_initialized:
                 sync_gradients(shared_model, model)
                 shared_gradient_initialized = True
             shared_optim.step()
+

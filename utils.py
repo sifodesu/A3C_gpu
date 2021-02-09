@@ -7,7 +7,7 @@ RES_F = 80
 
 def parse():
     args = argparse.ArgumentParser()
-    args.add_argument('--env', default='SuperMarioWorld-Snes', type=str, help='Name of the working environment')
+    args.add_argument('--env', default='Pong-v4', type=str, help='Name of the working environment')
     args.add_argument('--lr', default=1e-4, type=float, help='Learning rate')
     args.add_argument('--numWorkers', default=4, type=int, help='Number of training workers')
     args.add_argument('--load', default=False, action='store_true', help='Load last checkpoint')
@@ -18,7 +18,6 @@ def parse():
     args.add_argument('--hidden_gru_size', default=256, type=int, help='GRU hidden layer size (used for short long term memory)')
     args.add_argument('--no_batch_norm', default=True, action='store_false', help='Don\'t se batchnorm after each convolution')
     args.add_argument('--deeper', default=False, action='store_true', help='use deeper actor/critic')
-    args.add_argument('--envState', default='Start.state', type=str, help='Name of the env state to load in the game')
     print( args.parse_args())
     return args.parse_args()
     
