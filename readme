@@ -1,4 +1,4 @@
-# README
+###A3C with CUDA support
 
 ## Installation
 
@@ -8,8 +8,8 @@ pip install matplotlib scipy scipy scikit-image numpy torch gym-retro
 
 To be able to run the Mario game, you will need to run 
 python3 -m retro.import /path/to/your/ROMs/directory/
-(for more info https://retro.readthedocs.io/en/latest/getting_started.html)
-The rom is provided in the repository.
+(Assuming you have the rom)
+For more info, see https://retro.readthedocs.io/en/latest/getting_started.html
 
 ## Usage
 To run Pong in evaluation mode with the best model:
